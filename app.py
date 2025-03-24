@@ -14,9 +14,10 @@ def bienvenida():
         <title>Lab CI/CD UCM</title>
     </head>
     <body>
-        <h1>Bienvenidos a la demostración de CI/CD con GitHub</h1>
+        <h1>Bienvenidos UACM  a la demostración de CI/CD con GitHub</h1>
         <p>Fecha y hora actual: {fecha_actual}</p>
         <p>Tu dirección IP: {ip_origen}</p>
+        <p>Saludos</p>
     </body>
     </html>
     """
