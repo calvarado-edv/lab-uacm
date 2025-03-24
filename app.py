@@ -11,7 +11,7 @@ def bienvenida():
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Bienvenido</title>
+        <title>Bienvenido a la demostración de CI/CD con Github</title>
     </head>
     <body>
         <h1>Bienvenidos</h1>
