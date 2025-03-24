@@ -11,10 +11,10 @@ def bienvenida():
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Bienvenido a la demostración de CI/CD con Github</title>
+        <title>Lab CI/CD UCM</title>
     </head>
     <body>
-        <h1>Bienvenidos</h1>
+        <h1>Bienvenidos a la demostración de CI/CD con GitHub</h1>
         <p>Fecha y hora actual: {fecha_actual}</p>
         <p>Tu dirección IP: {ip_origen}</p>
     </body>
